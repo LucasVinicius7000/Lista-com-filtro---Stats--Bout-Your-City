@@ -1,0 +1,1 @@
+Uma aplicação web em JavaScript puro que permite pesquisar os municipíos do Brasil por nome através da api do IBGE e redirecionar para a página "panorama" do IGBE com estátisticas úteis sobre o município pesquisado. 
