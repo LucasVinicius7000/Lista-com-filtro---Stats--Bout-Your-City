@@ -168,7 +168,7 @@ function changeBackgroundFlag(municipio) {
       html.style.backgroundImage = `url('./assets/rio-grande-do-norte-flag.png')`;
       break;
     case "25":
-      html.style.backgroundImage = `url('./assets/paraiba.png')`;
+      html.style.backgroundImage = `url('./assets/paraiba-flag.png')`;
       break;
 
     case "26":
