@@ -124,7 +124,7 @@ function changeBackgroundFlag(municipio) {
   var html = document.getElementsByTagName("html")[0];
 
   var codigoUF =
-    municipio != undefined ? municipio.id[0] + municipio.id[1] : undefined;
+    municipio != undefined ? municipio.id.toString().slice(0,2) : undefined;
 
   switch (codigoUF) {
     case "11":
